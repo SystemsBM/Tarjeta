@@ -3,6 +3,10 @@
 Este proyecto consiste en una tarjeta interactiva que reacciona al pasar el mouse sobre ella. La tarjeta presenta una
 imagen de portada, un título, y un personaje que aparece cuando la tarjeta es activada por el usuario.
 
+## Miralo en tiempo real
+
+Link: https://systemsbm.github.io/Tarjeta/ 
+
 ## Características
 - Diseño responsivo.
 - Efecto de transformación 3D cuando se pasa el mouse sobre la tarjeta.
